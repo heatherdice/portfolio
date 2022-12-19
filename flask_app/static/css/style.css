@@ -1,13 +1,20 @@
 .title-inner {
     background-image: url("../images/header.svg");
     background-repeat: no-repeat;
-    /* width: 100vw;
-    height: auto;
-    object-fit: cover; */
+    background-size: cover;
 }
 #dev-name {
     font-family: 'Corinthia', cursive;
+    color: #F2CC01;
+    text-shadow: 2px 2px 5px #212529;
+}
+#dev-title {
+    color: #000;
+    text-shadow: 1px 1px 2px #fff;
 }
 h3, li {
     font-family: 'Oswald', sans-serif;
+}
+main {
+    background-color: #81B4CE;
 }
