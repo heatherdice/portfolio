@@ -1,0 +1,13 @@
+.title-inner {
+    background-image: url("../images/header.svg");
+    background-repeat: no-repeat;
+    /* width: 100vw;
+    height: auto;
+    object-fit: cover; */
+}
+#dev-name {
+    font-family: 'Corinthia', cursive;
+}
+h3, li {
+    font-family: 'Oswald', sans-serif;
+}
