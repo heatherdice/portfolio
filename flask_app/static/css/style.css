@@ -22,9 +22,13 @@
 main {
     background-color: #A1C7DA;
 }
-.col {
-    /* border: solid red 1px; */
-}
+/* .col {
+    border: solid red 1px;
+} */
 .img-col {
     text-align: center;
+    padding-right: 0 !important;
+}
+.about-col {
+    padding-left: 0 !important;
 }
